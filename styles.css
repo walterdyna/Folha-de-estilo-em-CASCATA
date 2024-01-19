@@ -1,0 +1,31 @@
+
+
+/*
+    CSS 
+
+    ====>   Folha de estilo em cascata
+
+    Isso quer diser que ao utilizar o CSS se um item estiver com um estilo a cima e o mesmo item estiver a baixo,
+
+    O CSS VAI VER A ULTIMA INFORMAÇÃO (INFORMAÇÃO DE BAIXO) PARA USAR
+
+*/
+
+
+/* PRIMEIRA INFORMAÇÃO NO CSS */
+
+h1 {
+
+    color: red;
+
+}
+
+/* SEGUNDA INFORMAÇÃO NO CSS */
+
+h1 {
+
+    color: blue;
+
+}
+
+/* DESTA FORMA NOTAMOS QUE O CSS VAI SERGUIR A SEGUNDA INFORMAÇÃO DA MESMA TAG */
